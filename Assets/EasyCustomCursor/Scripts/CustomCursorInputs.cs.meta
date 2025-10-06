@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a73c4d91d05aef43a2c115f1fa672f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 225220
+  packageName: Easy Custom Cursor
+  packageVersion: 1.0.0
+  assetPath: Assets/EasyCustomCursor/Scripts/CustomCursorInputs.cs
+  uploadId: 511307

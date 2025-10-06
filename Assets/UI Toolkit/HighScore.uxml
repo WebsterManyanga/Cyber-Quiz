@@ -1,0 +1,12 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/UI%20Toolkit/HighScore.uss?fileID=7433441132597879392&amp;guid=9a97b49e34c0d4d16a2df60521e5790a&amp;type=3#HighScore" />
+    <ui:VisualElement name="VisualElement" style="width: 1682px; height: 1088px; position: absolute; top: -40px; left: 214px; background-color: rgba(255, 255, 255, 0); border-top-left-radius: 15px; border-top-right-radius: 15px; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; background-image: resource(&apos;Group 289386&apos;); -unity-background-scale-mode: stretch-to-fill; flex-direction: row; justify-content: center; align-self: center; align-content: center; align-items: center;" />
+    <ui:VisualElement name="Top" style="flex-grow: 1; background-image: resource(&apos;shadows_60&apos;); width: 940px; height: 484px; position: absolute; top: -56px; left: 476px;">
+        <ui:Label text="Scoreboard" name="Scoreboard" style="font-size: 114px; color: rgb(255, 255, 255); position: absolute; top: 148px; left: 148px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="Score" style="flex-grow: 1; position: absolute; background-image: resource(&apos;shadows_60&apos;); background-color: rgba(0, 0, 0, 0); height: 580px; width: 636px; top: 248px; left: 652px;">
+        <ui:Label text="100%" name="Score" style="height: 232px; width: 484px; font-size: 158px; color: rgb(255, 255, 255); position: absolute; top: 152px; left: 62px; -unity-text-align: upper-center;" />
+    </ui:VisualElement>
+    <ui:Button text="Play Again?" style="position: absolute; height: 167px; width: 430px; top: 732px; left: 488px; font-size: 69px; -unity-font-style: normal; border-top-left-radius: 15px; border-top-right-radius: 15px; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; background-color: rgb(112, 76, 144); color: rgb(255, 255, 255);" />
+    <ui:Button text="Quit" name="Quit" style="position: absolute; height: 167px; width: 430px; top: 740px; left: 1016px; font-size: 69px; -unity-font-style: normal; border-top-left-radius: 15px; border-top-right-radius: 15px; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px; background-color: rgb(112, 76, 144); color: rgb(255, 255, 255);" />
+</ui:UXML>

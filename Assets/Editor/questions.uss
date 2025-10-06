@@ -1,0 +1,115 @@
+.custom-label {
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: rgb(68, 138, 255);
+}
+
+.answer-btn {
+    width: 685px;
+    height: 69px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left-color: rgb(162, 162, 162);
+    border-right-color: rgb(162, 162, 162);
+    border-top-color: rgb(162, 162, 162);
+    border-bottom-color: rgb(162, 162, 162);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    background-color: rgb(104, 53, 182);
+    margin-bottom: 20px;
+}
+
+.answer-btn:hover {
+    background-color: rgb(24, 127, 224);
+    color: rgb(255, 255, 255);
+    scale: 1.05 1.05 1.05;
+    transition-property: scale;
+    transition-duration: 0.05s;
+    transition-timing-function: ease-in;
+    transition-delay: 0s;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    cursor: initial;
+}
+
+.correct {
+    background-color: rgb(55, 194, 109);
+    width: 685px;
+    height: 69px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    margin-bottom: 20px;
+    scale: 1.05 1.05 1.05;
+}
+
+.incorrect {
+    width: 685px;
+    height: 69px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-left-color: rgb(162, 162, 162);
+    border-right-color: rgb(162, 162, 162);
+    border-top-color: rgb(162, 162, 162);
+    border-bottom-color: rgb(162, 162, 162);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    color: rgb(55, 54, 54);
+    font-size: 21px;
+    background-color: rgb(255, 56, 113);
+    margin-bottom: 20px;
+    scale: 1.05 1.05 1.05;
+}
+
+.body {
+    width: 69%;
+    height: 70%;
+    border-top-left-radius: 22px;
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    border-bottom-left-radius: 22px;
+    display: flex;
+    background-color: rgba(104, 53, 182, 0);
+    background: linear-gradient(180deg, rgb(11, 10, 76) 0%, rgb(75, 22, 157) 100%);
+    background-image: resource('Memory Match Gameplay 2');
+}
+
+.avatar {
+    flex-grow: 1;
+    background-image: url("project://database/Assets/avatars/Zombody.png?fileID=2800000&guid=8ec3192f44c4b4832a523e193dddfedc&type=3#Zombody");
+    background-size: 100% 100%;
+    position: absolute;
+    width: 162px;
+    height: 155px;
+    left: 11px;
+    border-top-left-radius: 343px;
+    border-top-right-radius: 343px;
+    border-bottom-right-radius: 343px;
+    border-bottom-left-radius: 343px;
+    top: -69px;
+    opacity: 1;
+    display: none;
+}

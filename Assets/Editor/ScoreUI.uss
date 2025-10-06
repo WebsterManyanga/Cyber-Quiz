@@ -1,0 +1,22 @@
+.custom-label {
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: rgb(68, 138, 255);
+}
+
+.score {
+    height: 123px;
+    color: rgb(226, 190, 42);
+    -unity-font-style: bold;
+    -unity-text-align: upper-center;
+    width: 100%;
+}
+
+.main {
+    flex-grow: 1;
+    flex-direction: row;
+    justify-content: center;
+    border-top-width: 81px;
+    font-size: 90px;
+
+}

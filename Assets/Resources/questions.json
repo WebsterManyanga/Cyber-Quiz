@@ -1,0 +1,334 @@
+{
+  "questions": [
+    {
+      "name": "Alice",
+      "question": "You find a USB drive in the parking lot labeled 'Payroll'. What do you do?",
+      "options": [
+        "Plug it into your workstation to inspect contents",
+        "Hand it to IT/security for safe analysis",
+        "Upload files to cloud for colleagues to check",
+        "Keep it and take it home"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Bob",
+      "question": "An email asks you to reset payroll credentials at this link. The sender is 'hr@company-payroll.com'. What should you do?",
+      "options": [
+        "Click link and reset credentials",
+        "Reply asking for more info",
+        "Verify sender via HR directory and log in directly at the official portal",
+        "Forward the email to all colleagues"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Charlie",
+      "question": "You're at a coffee shop and need to check work email. Which is the safest option?",
+      "options": [
+        "Use the free public Wi-Fi without precautions",
+        "Use a mobile hotspot or connect via company VPN",
+        "Disable firewall for faster connection",
+        "Share the Wi-Fi password with strangers"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Dana",
+      "question": "Your browser shows 'certificate not trusted' when visiting a website. What should you do?",
+      "options": [
+        "Proceed anyway, it’s probably fine",
+        "Ignore and refresh multiple times",
+        "Leave the site and verify URL or contact the service provider",
+        "Disable HTTPS checks in browser"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Eve",
+      "question": "Your computer suddenly slows down, shows popups, and redirects your browser. What’s the most likely cause?",
+      "options": [
+        "A hardware failure",
+        "A software update",
+        "Malware infection",
+        "Too many browser tabs"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Frank",
+      "question": "Which of the following is the strongest password?",
+      "options": [
+        "password123",
+        "Summer2025",
+        "P@55w0rd!",
+        "T#9gK!8bQ2rZ"
+      ],
+      "answer": 3
+    },
+    {
+      "name": "Grace",
+      "question": "You receive a friend request from someone you don’t know. What should you do?",
+      "options": [
+        "Accept it to be polite",
+        "Check mutual friends and personal info before deciding",
+        "Ignore or delete it if you don’t know the person",
+        "Send them a message asking who they are"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Hannah",
+      "question": "Why is it unsafe to reuse the same password on multiple websites?",
+      "options": [
+        "It’s just inconvenient",
+        "It can make it easier to forget passwords",
+        "If one site is breached, all your accounts are at risk",
+        "Websites don’t allow that"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Ivan",
+      "question": "Which of the following is a sign of a phishing attempt?",
+      "options": [
+        "Email from your teacher with your assignment",
+        "Email with grammar mistakes asking for login info",
+        "Email from a classmate about group project",
+        "Message from your school’s official domain"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Jade",
+      "question": "Which of these is a safe practice for online privacy?",
+      "options": [
+        "Sharing your address on public profiles",
+        "Posting your travel plans online",
+        "Using strong privacy settings on social media",
+        "Accepting all cookies on every website"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Kyle",
+      "question": "What’s the best way to store your passwords securely?",
+      "options": [
+        "Write them in a notebook",
+        "Save them in your browser without a master password",
+        "Use a reputable password manager",
+        "Rely on your memory only"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Liam",
+      "question": "A pop-up says you’ve won a new iPhone and asks for your details. What do you do?",
+      "options": [
+        "Fill in your info immediately",
+        "Ignore and close the pop-up safely",
+        "Share it with friends to see if it’s true",
+        "Click the link to confirm the prize"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Maya",
+      "question": "Which of these is an example of cyberbullying?",
+      "options": [
+        "Disagreeing respectfully online",
+        "Sharing someone’s embarrassing photos without permission",
+        "Sending positive comments",
+        "Reporting harmful posts"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Noah",
+      "question": "What does 'https://' in a website address mean?",
+      "options": [
+        "It’s a fake website",
+        "It’s using a secure, encrypted connection",
+        "It’s a government website",
+        "It’s a local network"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Olivia",
+      "question": "Your friend’s social media account suddenly starts posting suspicious links. What should you do?",
+      "options": [
+        "Click the link to check what it is",
+        "Ignore it completely",
+        "Report the account and alert your friend privately",
+        "Share it to warn others"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Paul",
+      "question": "What’s the safest way to download software?",
+      "options": [
+        "From random online forums",
+        "From official or verified app stores",
+        "From a friend’s USB",
+        "From social media links"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Quinn",
+      "question": "Two-factor authentication (2FA) adds what extra layer of security?",
+      "options": [
+        "A second username",
+        "A code sent to your phone or app",
+        "A backup password",
+        "Nothing, it’s just for show"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Riley",
+      "question": "You notice your online account has logins from another country. What should you do?",
+      "options": [
+        "Do nothing, maybe it’s a glitch",
+        "Change your password immediately and check security settings",
+        "Post about it online",
+        "Ignore it and continue using your account"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Sasha",
+      "question": "What’s the best way to avoid fake shopping websites?",
+      "options": [
+        "Only shop on trusted, known sites with HTTPS",
+        "Look for low prices regardless of site name",
+        "Click ads from social media for deals",
+        "Ignore reviews"
+      ],
+      "answer": 0
+    },
+    {
+      "name": "Tom",
+      "question": "Which is an example of good password hygiene?",
+      "options": [
+        "Changing your password regularly and keeping it unique",
+        "Using your birthday as your password",
+        "Using the same password for everything",
+        "Sharing your password with a friend"
+      ],
+      "answer": 0
+    },
+    {
+      "name": "Uma",
+      "question": "Why should you avoid posting your school schedule online?",
+      "options": [
+        "It could help hackers or strangers track your location",
+        "It makes you seem unorganized",
+        "It can slow down your phone",
+        "It uses too much data"
+      ],
+      "answer": 0
+    },
+    {
+      "name": "Victor",
+      "question": "What’s the best way to tell if an email attachment is safe?",
+      "options": [
+        "Download it first to check",
+        "Only open attachments from trusted senders and expected emails",
+        "Ignore all attachments always",
+        "Open them on your phone instead"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Willow",
+      "question": "Which of these actions protects your personal data the most?",
+      "options": [
+        "Using privacy settings and limiting what you share online",
+        "Sharing everything only with friends",
+        "Using public Wi-Fi freely",
+        "Posting personal updates daily"
+      ],
+      "answer": 0
+    },
+    {
+      "name": "Xander",
+      "question": "What should you do if you suspect your device is infected with malware?",
+      "options": [
+        "Keep using it normally",
+        "Run a trusted antivirus scan and disconnect from the internet",
+        "Ignore it; it will fix itself",
+        "Lend it to a friend"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Yara",
+      "question": "A classmate threatens to share your private messages online. What should you do?",
+      "options": [
+        "Stay silent and hope it stops",
+        "Respond angrily online",
+        "Report it to a trusted adult or authority",
+        "Share their messages to get revenge"
+      ],
+      "answer": 2
+    },
+    {
+      "name": "Zane",
+      "question": "Which of the following is a red flag of a fake website?",
+      "options": [
+        "A padlock icon in the browser",
+        "Misspelled URLs and poor design",
+        "Professional layout and secure connection",
+        "Updated privacy policy"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Amara",
+      "question": "What is the safest way to handle suspicious messages from unknown numbers?",
+      "options": [
+        "Click links to see what they’re about",
+        "Block or report the number",
+        "Reply asking who it is",
+        "Forward to your group chat"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Ben",
+      "question": "Why should software updates be installed promptly?",
+      "options": [
+        "They only change the app’s design",
+        "They fix security vulnerabilities and bugs",
+        "They slow your device",
+        "They delete your files"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "Clara",
+      "question": "What is phishing?",
+      "options": [
+        "A fun internet meme",
+        "A cyberattack tricking people to reveal personal info",
+        "An app that manages passwords",
+        "A software update error"
+      ],
+      "answer": 1
+    },
+    {
+      "name": "David",
+      "question": "When should you share your password with someone else?",
+      "options": [
+        "Never",
+        "When it’s your best friend",
+        "When a website asks for it",
+        "When your teacher requests it"
+      ],
+      "answer": 0
+    }
+  ]
+}

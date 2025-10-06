@@ -1,0 +1,8 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Editor/ScoreUI.uss?fileID=7433441132597879392&amp;guid=acdfab86c61e84de89d42dfdf9c1e686&amp;type=3#ScoreUI" />
+    <ui:VisualElement name="VisualElement" enabled="true" class="main" style="top: -77px; position: absolute; width: 200px; height: 200px; background-color: rgba(0, 0, 0, 0); left: 800px;">
+        <ui:VisualElement style="flex-grow: 1; background-color: rgb(0, 0, 0); background-image: resource(&apos;Memory Match Gameplay 2&apos;); width: 40px; height: 120px; border-top-left-radius: 15px; border-top-right-radius: 15px; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px;">
+            <ui:Label text="20" name="Score" class="score" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; height: 100%;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
